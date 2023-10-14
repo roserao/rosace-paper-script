@@ -4,15 +4,20 @@ Scripts and public datasets used to perform data analysis and generate plots for
 
 For the full paper, see [link]().
 
-
+![Rosace Logo](/image/rosace_logo.png "Rosace Logo")
 
 ## Folder: realdata-main
+
+#### Description
 
 It includes raw and processed OCT1 data, processed MET data, and scripts to generate Figure 3, 4, S2, S3, and S4.
 
 #### References
+
 1. OCT1: Yee SW, Macdonald C, Mitrovic D, et al. The full spectrum of OCT1 (SLC22A1) mutations bridges transporter biophysics to drug pharmacogenomics. Preprint. bioRxiv. 2023;2023.06.06.543963. Published 2023 Jun 7. doi:10.1101/2023.06.06.543963
 2. MET: Estevam GO, Linossi EM, Macdonald CB, et al. Conserved regulatory motifs in the juxtamembrane domain and kinase N-lobe revealed through deep mutational scanning of the MET receptor tyrosine kinase domain. eLife. 2023. doi: 10.7554/eLife.91619.1
+
+#### Script
 
 * run_fig3.R: format inputs and run Rosace, Enrich2, mustcan, and simple linear regression on all subsets of replicates in OCT1 drug cytotoxictiy screen from raw count (data/OCT1/count/1SM73)
 
@@ -26,12 +31,16 @@ It includes raw and processed OCT1 data, processed MET data, and scripts to gene
 
 ## Folder: realdata-supplement
 
+#### Description
+
 It includes downloaded public data (BRCA1, CARD11, and MSH2) and scripts to generate Figure S1.
 
 #### References
 1. BRCA1: Findlay GM, Daza RM, Martin B, et al. Accurate classification of BRCA1 variants with saturation genome editing. Nature. 2018;562(7726):217-222. doi:10.1038/s41586-018-0461-z
 2. CARD11: Meitlis I, Allenspach EJ, Bauman BM, et al. Multiplexed Functional Assessment of Genetic Variants in CARD11. Am J Hum Genet. 2020;107(6):1029-1043. doi:10.1016/j.ajhg.2020.10.015
 3. MSH2: Jia X, Burugula BB, Chen V, et al. Massively parallel functional testing of MSH2 missense variants conferring Lynch syndrome risk. Am J Hum Genet. 2021;108(1):163-175. doi:10.1016/j.ajhg.2020.12.003
+
+#### Script
 
 * preprocess_{gene}.R: create cleaned Rosace object from the downloaded public excel sheets.
 
@@ -46,6 +55,8 @@ It includes downloaded public data (BRCA1, CARD11, and MSH2) and scripts to gene
 
 
 ## simulation-snakemake
+
+#### Description
 
 A Snakemake pipeline to run Rosette simulation and benchmark methods (DiMSum, Enrich2, mutscan, and simple lienar regression).
 
@@ -69,7 +80,11 @@ Warning: this version of pipeline used an old version of Rosace, whose interface
 
 ## simulation-analysis
 
+#### Description
+
 Take data input from folder simulation-snakemake/output_{neg, negxxx, pos, posxxx}. 
+
+#### Script
 
 * plot_fig5.R: plot Figure 5 and Figure S6 (rank-fdr).
 
