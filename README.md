@@ -4,7 +4,9 @@ Scripts and public datasets used to perform data analysis and generate plots for
 
 For the full paper, see [link]().
 
-![Rosace Logo](/image/rosace_logo.png "Rosace Logo")
+<p align="left">
+  <img src="/image/rosace_logo.png" width="150">
+</p>
 
 ## Folder: realdata-main
 
@@ -54,7 +56,7 @@ It includes downloaded public data (BRCA1, CARD11, and MSH2) and scripts to gene
 
 
 
-## simulation-snakemake
+## Folder: simulation-snakemake
 
 #### Description
 
@@ -78,7 +80,7 @@ Warning: this version of pipeline used an old version of Rosace, whose interface
 
 
 
-## simulation-analysis
+## Folder: simulation-analysis
 
 #### Description
 
