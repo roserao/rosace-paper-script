@@ -1,0 +1,103 @@
+{
+  "conditions": [
+    {
+      "name": "1SM73",
+      "selections": [
+        {
+          "libraries": [
+            {
+              "counts file": "data/OCT1/enrich2/count/rep1_c_0.tsv",
+              "identifiers": {},
+              "name": "rep1_c_0",
+              "report filtered reads": false,
+              "timepoint": 0
+            },
+            {
+              "counts file": "data/OCT1/enrich2/count/rep1_c_1.tsv",
+              "identifiers": {},
+              "name": "rep1_c_1",
+              "report filtered reads": false,
+              "timepoint": 1
+            },
+            {
+              "counts file": "data/OCT1/enrich2/count/rep1_c_2.tsv",
+              "identifiers": {},
+              "name": "rep1_c_2",
+              "report filtered reads": false,
+              "timepoint": 2
+            },
+            {
+              "counts file": "data/OCT1/enrich2/count/rep1_c_3.tsv",
+              "identifiers": {},
+              "name": "rep1_c_3",
+              "report filtered reads": false,
+              "timepoint": 3
+            }
+          ],
+          "name": "1SM73_rep1"
+        },
+        {
+          "libraries": [
+            {
+              "counts file": "data/OCT1/enrich2/count/rep2_c_0.tsv",
+              "identifiers": {},
+              "name": "rep2_c_0",
+              "report filtered reads": false,
+              "timepoint": 0
+            },
+            {
+              "counts file": "data/OCT1/enrich2/count/rep2_c_1.tsv",
+              "identifiers": {},
+              "name": "rep2_c_1",
+              "report filtered reads": false,
+              "timepoint": 1
+            },
+            {
+              "counts file": "data/OCT1/enrich2/count/rep2_c_2.tsv",
+              "identifiers": {},
+              "name": "rep2_c_2",
+              "report filtered reads": false,
+              "timepoint": 2
+            },
+            {
+              "counts file": "data/OCT1/enrich2/count/rep2_c_3.tsv",
+              "identifiers": {},
+              "name": "rep2_c_3",
+              "report filtered reads": false,
+              "timepoint": 3
+            }
+          ],
+          "name": "1SM73_rep2"
+        },
+        {
+          "libraries": [
+            {
+              "counts file": "data/OCT1/enrich2/count/rep3_c_0.tsv",
+              "identifiers": {},
+              "name": "rep3_c_0",
+              "report filtered reads": false,
+              "timepoint": 0
+            },
+            {
+              "counts file": "data/OCT1/enrich2/count/rep3_c_1.tsv",
+              "identifiers": {},
+              "name": "rep3_c_1",
+              "report filtered reads": false,
+              "timepoint": 1
+            },
+            {
+              "counts file": "data/OCT1/enrich2/count/rep3_c_2.tsv",
+              "identifiers": {},
+              "name": "rep3_c_2",
+              "report filtered reads": false,
+              "timepoint": 2
+            }
+          ],
+          "name": "1SM73_rep3"
+        }
+      ]
+    }
+  ],
+  "name": "test123",
+  "output directory": "data/OCT1/enrich2/result/test123"
+}

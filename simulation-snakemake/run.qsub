@@ -1,0 +1,36 @@
+#!/bin/bash
+#$ -cwd
+# error = Merged with joblog
+#$ -o logs/joblog.$JOB_ID
+#$ -j y
+#$ -l h_rt=4:00:00,h_data=16G
+#$ -l highp
+# Email address to notify
+#$ -M roserao@ucla.edu
+# Notify when
+#$ -m bea
+
+cd /u/home/r/roserao
+source .bashrc
+
+. /u/local/Modules/default/init/modules.sh
+module load anaconda3
+module load gcc
+module load R
+
+conda activate snakemake-rose2
+
+cd /u/home/r/roserao/project-hjp/DMS-snakemake
+snakemake --unlock
+
+snakemake -j 50 \
+    -R summarise_run \
+    --keep-going \
+    --use-conda \
+    --cluster-config config/cluster.json \
+    --cluster "qsub -V -l h_rt={cluster.runtime},h_data={cluster.memory},{cluster.queue} -pe shared {cluster.threads} -N {cluster.name} -j y -o {cluster.output} -M roserao@ucla.edu -m a" \
+    --cluster-cancel qdel \
+    --conda-frontend conda \
+    --latency-wait 60 \
+    --rerun-incomplete 
+

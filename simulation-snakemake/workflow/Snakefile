@@ -1,0 +1,56 @@
+import numpy as np
+
+v_mode = ["growth"]
+v_nrep = [1, 3]
+v_nround = [1, 3]
+v_cond = ['clean']
+v_sel = ['pos', 'neg', 'posxxx', 'negxxx']
+nsim = 10
+
+# # rosace and enrich2
+# rule all:
+#     input:
+#         expand("results/sim_{sel}/{mode}_rep{rep}_rd{rd}_{cond}/sim{sim}/rosace/rosace_eval.rds",
+#             sel = v_sel, mode = v_mode, rep = v_nrep, rd = v_nround,
+#             cond = v_cond, sim = range(1, 1 + nsim)),
+#         expand("results/sim_{sel}/{mode}_rep{rep}_rd{rd}_{cond}/sim{sim}/enrich2/results/tsv/simulation_exp/{output}",
+#             sel = v_sel, mode = v_mode, rep = v_nrep, rd = v_nround, 
+#             cond = v_cond, sim = range(1, 1 + nsim),
+#             output = ["main_identifiers_scores.tsv", "main_identifiers_scores_pvalues_wt.tsv"])
+
+# mutscan and dimsum
+# rule all:
+#     input:
+#         expand("results/sim_{sel}/{mode}_rep{rep}_rd{rd}_{cond}/sim{sim}/mutscan/{output}",
+#             sel = v_sel, mode = v_mode, rep = v_nrep, rd = v_nround, 
+#             cond = v_cond, sim = range(1, 1 + nsim),
+#             output = ['score_edgeR.tsv', 'score_limma.tsv']),
+#         expand("results/sim_{sel}/{mode}_rep{rep}_rd1_{cond}/sim{sim}/dimsum/DiMSum_Project/DiMSum_Project_fitness_replicates.RData",
+#            sel = v_sel, mode = v_mode, rep = v_nrep, 
+#            cond = v_cond, sim = range(1, 1 + nsim))        
+
+# analysis
+# rule all:
+#     input:
+#         expand("results/sim_{sel}/{mode}_rep{rep}_rd{rd}_{cond}/sim{sim}/analysis/{output}",
+#             sel = v_sel, mode = v_mode, rep = v_nrep, rd = v_nround, 
+#             cond = v_cond, sim = range(1, 1 + nsim),
+#             output = ['corr.tsv', 'fdr.tsv', 'rankfdr.tsv', 'rankfdrsense.tsv'])
+
+# summarise condition
+# rule all:
+#     input:
+#         expand("results/summary_{sel}/{mode}_rep{rep}_rd{rd}_{cond}/{output}",
+#             sel = v_sel, mode = v_mode, rep = v_nrep, rd = v_nround, cond = v_cond, 
+#             output = ['corr.tsv', 'fdr.tsv', 'rankfdr.tsv', 'rankfdrsense.tsv', "benchmark.tsv"])
+
+# summarise run
+rule all:
+    input:
+        expand("results/output_{sel}/{mode}_{cond}/{output}",
+            sel = v_sel, mode = v_mode, cond = v_cond,
+            output = ['corr.tsv', 'fdr.tsv', 'rankfdr.tsv', 'rankfdrsense.tsv', "benchmark.tsv"])
+
+include: "rules/simulation.smk"
+include: "rules/method.smk"
+include: "rules/analysis.smk"
