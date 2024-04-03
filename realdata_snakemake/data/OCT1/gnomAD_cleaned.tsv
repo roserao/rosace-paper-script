@@ -1,0 +1,8 @@
+hgvs	type	clinvar	wildtype_3	mutation_3	position	wildtype	mutation
+p.Pro283Pro	synonymous	Likely benign	Pro	Pro	283	P	P
+p.Gly165Cys	missense	Benign	Gly	Cys	165	G	C
+p.Asn186Asn	synonymous	Benign	Asn	Asn	186	N	N
+p.Met408Val	missense	Benign	Met	Val	408	M	V
+p.Met440Ile	missense	Benign	Met	Ile	440	M	I
+p.Leu464Leu	synonymous	Benign	Leu	Leu	464	L	L
+p.Ser549Ser	synonymous	Benign	Ser	Ser	549	S	S

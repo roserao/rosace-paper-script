@@ -1,0 +1,50 @@
+import numpy as np
+
+v_data = ["OCT1", "MET", "CARD11"]
+v_pos = ["pos", "nopos"]
+v_nrep = [1, 3]
+v_nround = [1, 3]
+nsim = 10
+simdms_data = ["binding", "growth"]
+simdms_mode = ["clean", "reperror", "jackpot"]
+
+rule all:
+    input:
+        expand("results/simdms/{data}/{mode}/mutscan/score_edgeR.tsv",
+            data = simdms_data, mode = simdms_mode),
+        expand("results/simdms/{data}/{mode}/mutscan/score_limma.tsv",
+            data = simdms_data, mode = simdms_mode),
+        expand("results/simdms/{data}/{mode}/dimsum/DiMSum_Project/DiMSum_Project_fitness_replicates.RData",
+            data = simdms_data, mode = simdms_mode),
+        expand("results/simdms/{data}/{mode}/rosace/rosace_eval.rds",
+            data = simdms_data, mode = simdms_mode)
+        # expand("results/{data}/plot/{file}",
+        #     data = v_data,
+        #     file = ["corr.png", "fdr.png", "rankfdr.png", "time.png"])
+        # expand("results/{data}/summary/{file}",
+        #     data = v_data,
+        #     file = ["corr.tsv", "fdr.tsv", "rankfdr.tsv", "rankfdrsense.tsv", "benchmark.tsv"]),
+        # expand("results/{data}/{pos}/growth_rep{rep}_rd{rd}_clean/sim{sim}/analysis/{file}",
+        #     data = v_data, pos = v_pos, rep = v_nrep, rd = v_nround, sim = range(1, 1 + nsim),
+        #     file = ["corr.tsv", "fdr.tsv", "rankfdr.tsv", "rankfdrsense.tsv"])
+        # expand("results/{data}/{pos}/growth_rep{rep}_rd{rd}_clean/sim{sim}/analysis/effects.tsv",
+        #     data = v_data, pos = v_pos, rep = v_nrep, rd = v_nround, sim = range(1, 1 + nsim))
+        # expand("results/{data}/{pos}/growth_rep{rep}_rd{rd}_clean/sim{sim}/rosace/rosace_eval.rds",
+        #     data = v_data, pos = v_pos, rep = v_nrep, rd = v_nround, sim = range(1, 1 + nsim)),
+        # expand("results/{data}/{pos}/growth_rep{rep}_rd{rd}_clean/sim{sim}/rosace_nopos/rosace_eval.rds",
+        #     data = v_data, pos = v_pos, rep = v_nrep, rd = v_nround, sim = range(1, 1 + nsim))
+        # expand("results/{data}/{pos}/growth_rep{rep}_rd{rd}_clean/sim{sim}/rosace/rosace.rds",
+        #     data = v_data, pos = v_pos, rep = v_nrep, rd = v_nround, sim = range(1, 1 + nsim)),
+        # expand("results/{data}/{pos}/growth_rep{rep}_rd{rd}_clean/sim{sim}/mutscan/score_edgeR.tsv",
+        #     data = v_data, pos = v_pos, rep = v_nrep, rd = v_nround, sim = range(1, 1 + nsim)),
+        # expand("results/{data}/{pos}/growth_rep{rep}_rd{rd}_clean/sim{sim}/mutscan/score_limma.tsv",
+        #     data = v_data, pos = v_pos, rep = v_nrep, rd = v_nround, sim = range(1, 1 + nsim)),
+        # expand("results/{data}/{pos}/growth_rep{rep}_rd{rd}_clean/sim{sim}/enrich2/results/tsv/simulation_exp/main_identifiers_scores.tsv",
+        #     data = v_data, pos = v_pos, rep = v_nrep, rd = v_nround, sim = range(1, 1 + nsim)),
+        # expand("results/{data}/{pos}/growth_rep{rep}_rd{rd}_clean/sim{sim}/enrich2/results/tsv/simulation_exp/main_identifiers_scores_pvalues_wt.tsv",
+        #     data = v_data, pos = v_pos, rep = v_nrep, rd = v_nround, sim = range(1, 1 + nsim)),
+        # expand("results/{data}/{pos}/growth_rep{rep}_rd{rd}_clean/sim{sim}/dimsum/DiMSum_Project/DiMSum_Project_fitness_replicates.RData",
+        #     data = v_data, pos = v_pos, rep = v_nrep, rd = v_nround, sim = range(1, 1 + nsim))
+
+# include: "rules/rosette.smk"
+include: "rules/simulation.smk"

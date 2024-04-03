@@ -1,0 +1,726 @@
+{
+  "conditions": [
+    {
+      "name": "clean", 
+      "selections": [
+        {
+          "libraries": [
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep1_c_0.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep1_c_0", 
+              "report filtered reads": false, 
+              "timepoint": 0
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep1_c_1.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep1_c_1", 
+              "report filtered reads": false, 
+              "timepoint": 1
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep1_c_2.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep1_c_2", 
+              "report filtered reads": false, 
+              "timepoint": 2
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep1_c_3.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep1_c_3", 
+              "report filtered reads": false, 
+              "timepoint": 3
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep1_c_4.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep1_c_4", 
+              "report filtered reads": false, 
+              "timepoint": 4
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep1_c_5.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep1_c_5", 
+              "report filtered reads": false, 
+              "timepoint": 5
+            }
+          ], 
+          "name": "clean_rep1"
+        }, 
+        {
+          "libraries": [
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep2_c_0.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep2_c_0", 
+              "report filtered reads": false, 
+              "timepoint": 0
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep2_c_1.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep2_c_1", 
+              "report filtered reads": false, 
+              "timepoint": 1
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep2_c_2.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep2_c_2", 
+              "report filtered reads": false, 
+              "timepoint": 2
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep2_c_3.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep2_c_3", 
+              "report filtered reads": false, 
+              "timepoint": 3
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep2_c_4.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep2_c_4", 
+              "report filtered reads": false, 
+              "timepoint": 4
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep2_c_5.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep2_c_5", 
+              "report filtered reads": false, 
+              "timepoint": 5
+            }
+          ], 
+          "name": "clean_rep2"
+        }, 
+        {
+          "libraries": [
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep3_c_0.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep3_c_0", 
+              "report filtered reads": false, 
+              "timepoint": 0
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep3_c_1.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep3_c_1", 
+              "report filtered reads": false, 
+              "timepoint": 1
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep3_c_2.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep3_c_2", 
+              "report filtered reads": false, 
+              "timepoint": 2
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep3_c_3.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep3_c_3", 
+              "report filtered reads": false, 
+              "timepoint": 3
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep3_c_4.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep3_c_4", 
+              "report filtered reads": false, 
+              "timepoint": 4
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep3_c_5.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep3_c_5", 
+              "report filtered reads": false, 
+              "timepoint": 5
+            }
+          ], 
+          "name": "clean_rep3"
+        }, 
+        {
+          "libraries": [
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep4_c_0.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep4_c_0", 
+              "report filtered reads": false, 
+              "timepoint": 0
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep4_c_1.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep4_c_1", 
+              "report filtered reads": false, 
+              "timepoint": 1
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep4_c_2.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep4_c_2", 
+              "report filtered reads": false, 
+              "timepoint": 2
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep4_c_3.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep4_c_3", 
+              "report filtered reads": false, 
+              "timepoint": 3
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep4_c_4.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep4_c_4", 
+              "report filtered reads": false, 
+              "timepoint": 4
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep4_c_5.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep4_c_5", 
+              "report filtered reads": false, 
+              "timepoint": 5
+            }
+          ], 
+          "name": "clean_rep4"
+        }, 
+        {
+          "libraries": [
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep5_c_0.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep5_c_0", 
+              "report filtered reads": false, 
+              "timepoint": 0
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep5_c_1.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep5_c_1", 
+              "report filtered reads": false, 
+              "timepoint": 1
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep5_c_2.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep5_c_2", 
+              "report filtered reads": false, 
+              "timepoint": 2
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep5_c_3.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep5_c_3", 
+              "report filtered reads": false, 
+              "timepoint": 3
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep5_c_4.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep5_c_4", 
+              "report filtered reads": false, 
+              "timepoint": 4
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/clean_rep5_c_5.tsv", 
+              "identifiers": {}, 
+              "name": "clean_rep5_c_5", 
+              "report filtered reads": false, 
+              "timepoint": 5
+            }
+          ], 
+          "name": "clean_rep5"
+        }
+      ]
+    }, 
+    {
+      "name": "jackpot", 
+      "selections": [
+        {
+          "libraries": [
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep1_c_0.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep1_c_0", 
+              "report filtered reads": false, 
+              "timepoint": 0
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep1_c_1.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep1_c_1", 
+              "report filtered reads": false, 
+              "timepoint": 1
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep1_c_2.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep1_c_2", 
+              "report filtered reads": false, 
+              "timepoint": 2
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep1_c_3.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep1_c_3", 
+              "report filtered reads": false, 
+              "timepoint": 3
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep1_c_4.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep1_c_4", 
+              "report filtered reads": false, 
+              "timepoint": 4
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep1_c_5.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep1_c_5", 
+              "report filtered reads": false, 
+              "timepoint": 5
+            }
+          ], 
+          "name": "jackpot_rep1"
+        }, 
+        {
+          "libraries": [
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep2_c_0.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep2_c_0", 
+              "report filtered reads": false, 
+              "timepoint": 0
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep2_c_1.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep2_c_1", 
+              "report filtered reads": false, 
+              "timepoint": 1
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep2_c_2.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep2_c_2", 
+              "report filtered reads": false, 
+              "timepoint": 2
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep2_c_3.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep2_c_3", 
+              "report filtered reads": false, 
+              "timepoint": 3
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep2_c_4.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep2_c_4", 
+              "report filtered reads": false, 
+              "timepoint": 4
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep2_c_5.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep2_c_5", 
+              "report filtered reads": false, 
+              "timepoint": 5
+            }
+          ], 
+          "name": "jackpot_rep2"
+        }, 
+        {
+          "libraries": [
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep3_c_0.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep3_c_0", 
+              "report filtered reads": false, 
+              "timepoint": 0
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep3_c_1.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep3_c_1", 
+              "report filtered reads": false, 
+              "timepoint": 1
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep3_c_2.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep3_c_2", 
+              "report filtered reads": false, 
+              "timepoint": 2
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep3_c_3.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep3_c_3", 
+              "report filtered reads": false, 
+              "timepoint": 3
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep3_c_4.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep3_c_4", 
+              "report filtered reads": false, 
+              "timepoint": 4
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep3_c_5.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep3_c_5", 
+              "report filtered reads": false, 
+              "timepoint": 5
+            }
+          ], 
+          "name": "jackpot_rep3"
+        }, 
+        {
+          "libraries": [
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep4_c_0.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep4_c_0", 
+              "report filtered reads": false, 
+              "timepoint": 0
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep4_c_1.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep4_c_1", 
+              "report filtered reads": false, 
+              "timepoint": 1
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep4_c_2.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep4_c_2", 
+              "report filtered reads": false, 
+              "timepoint": 2
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep4_c_3.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep4_c_3", 
+              "report filtered reads": false, 
+              "timepoint": 3
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep4_c_4.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep4_c_4", 
+              "report filtered reads": false, 
+              "timepoint": 4
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep4_c_5.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep4_c_5", 
+              "report filtered reads": false, 
+              "timepoint": 5
+            }
+          ], 
+          "name": "jackpot_rep4"
+        }, 
+        {
+          "libraries": [
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep5_c_0.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep5_c_0", 
+              "report filtered reads": false, 
+              "timepoint": 0
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep5_c_1.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep5_c_1", 
+              "report filtered reads": false, 
+              "timepoint": 1
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep5_c_2.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep5_c_2", 
+              "report filtered reads": false, 
+              "timepoint": 2
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep5_c_3.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep5_c_3", 
+              "report filtered reads": false, 
+              "timepoint": 3
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep5_c_4.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep5_c_4", 
+              "report filtered reads": false, 
+              "timepoint": 4
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/jackpot_rep5_c_5.tsv", 
+              "identifiers": {}, 
+              "name": "jackpot_rep5_c_5", 
+              "report filtered reads": false, 
+              "timepoint": 5
+            }
+          ], 
+          "name": "jackpot_rep5"
+        }
+      ]
+    }, 
+    {
+      "name": "reperror", 
+      "selections": [
+        {
+          "libraries": [
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep1_c_0.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep1_c_0", 
+              "report filtered reads": false, 
+              "timepoint": 0
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep1_c_1.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep1_c_1", 
+              "report filtered reads": false, 
+              "timepoint": 1
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep1_c_2.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep1_c_2", 
+              "report filtered reads": false, 
+              "timepoint": 2
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep1_c_3.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep1_c_3", 
+              "report filtered reads": false, 
+              "timepoint": 3
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep1_c_4.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep1_c_4", 
+              "report filtered reads": false, 
+              "timepoint": 4
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep1_c_5.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep1_c_5", 
+              "report filtered reads": false, 
+              "timepoint": 5
+            }
+          ], 
+          "name": "reperror_rep1"
+        }, 
+        {
+          "libraries": [
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep2_c_0.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep2_c_0", 
+              "report filtered reads": false, 
+              "timepoint": 0
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep2_c_1.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep2_c_1", 
+              "report filtered reads": false, 
+              "timepoint": 1
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep2_c_2.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep2_c_2", 
+              "report filtered reads": false, 
+              "timepoint": 2
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep2_c_3.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep2_c_3", 
+              "report filtered reads": false, 
+              "timepoint": 3
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep2_c_4.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep2_c_4", 
+              "report filtered reads": false, 
+              "timepoint": 4
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep2_c_5.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep2_c_5", 
+              "report filtered reads": false, 
+              "timepoint": 5
+            }
+          ], 
+          "name": "reperror_rep2"
+        }, 
+        {
+          "libraries": [
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep3_c_0.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep3_c_0", 
+              "report filtered reads": false, 
+              "timepoint": 0
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep3_c_1.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep3_c_1", 
+              "report filtered reads": false, 
+              "timepoint": 1
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep3_c_2.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep3_c_2", 
+              "report filtered reads": false, 
+              "timepoint": 2
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep3_c_3.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep3_c_3", 
+              "report filtered reads": false, 
+              "timepoint": 3
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep3_c_4.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep3_c_4", 
+              "report filtered reads": false, 
+              "timepoint": 4
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep3_c_5.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep3_c_5", 
+              "report filtered reads": false, 
+              "timepoint": 5
+            }
+          ], 
+          "name": "reperror_rep3"
+        }, 
+        {
+          "libraries": [
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep4_c_0.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep4_c_0", 
+              "report filtered reads": false, 
+              "timepoint": 0
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep4_c_1.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep4_c_1", 
+              "report filtered reads": false, 
+              "timepoint": 1
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep4_c_2.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep4_c_2", 
+              "report filtered reads": false, 
+              "timepoint": 2
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep4_c_3.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep4_c_3", 
+              "report filtered reads": false, 
+              "timepoint": 3
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep4_c_4.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep4_c_4", 
+              "report filtered reads": false, 
+              "timepoint": 4
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep4_c_5.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep4_c_5", 
+              "report filtered reads": false, 
+              "timepoint": 5
+            }
+          ], 
+          "name": "reperror_rep4"
+        }, 
+        {
+          "libraries": [
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep5_c_0.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep5_c_0", 
+              "report filtered reads": false, 
+              "timepoint": 0
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep5_c_1.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep5_c_1", 
+              "report filtered reads": false, 
+              "timepoint": 1
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep5_c_2.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep5_c_2", 
+              "report filtered reads": false, 
+              "timepoint": 2
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep5_c_3.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep5_c_3", 
+              "report filtered reads": false, 
+              "timepoint": 3
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep5_c_4.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep5_c_4", 
+              "report filtered reads": false, 
+              "timepoint": 4
+            }, 
+            {
+              "counts file": "results/simdms/growth_simulation_depth_200/Data/reperror_rep5_c_5.tsv", 
+              "identifiers": {}, 
+              "name": "reperror_rep5_c_5", 
+              "report filtered reads": false, 
+              "timepoint": 5
+            }
+          ], 
+          "name": "reperror_rep5"
+        }
+      ]
+    }
+  ], 
+  "name": "growth_simulation_depth_200", 
+  "output directory": "results/simdms/growth_simulation_depth_200/Results"
+}

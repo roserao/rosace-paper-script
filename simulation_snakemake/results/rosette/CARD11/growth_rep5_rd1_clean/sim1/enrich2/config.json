@@ -1,0 +1,126 @@
+{
+  "name":"simulation",
+  "output directory":"results/rosette/CARD11//growth_rep5_rd1_clean/sim1/enrich2/results",
+  "conditions":[
+    {
+      "name":"clean",
+      "selections":[
+        {
+          "name":"rep1",
+          "libraries":[
+            {
+              "counts file":"results/rosette/CARD11//growth_rep5_rd1_clean/sim1/enrich2/data/count_rep1_c0.tsv",
+              "identifiers":[
+
+              ],
+              "name":"rep1_c0",
+              "report filtered read":              false,
+              "timepoint":              0
+            },
+            {
+              "counts file":"results/rosette/CARD11//growth_rep5_rd1_clean/sim1/enrich2/data/count_rep1_c1.tsv",
+              "identifiers":[
+
+              ],
+              "name":"rep1_c1",
+              "report filtered read":              false,
+              "timepoint":              1
+            }
+          ]
+        },
+        {
+          "name":"rep2",
+          "libraries":[
+            {
+              "counts file":"results/rosette/CARD11//growth_rep5_rd1_clean/sim1/enrich2/data/count_rep2_c0.tsv",
+              "identifiers":[
+
+              ],
+              "name":"rep2_c0",
+              "report filtered read":              false,
+              "timepoint":              0
+            },
+            {
+              "counts file":"results/rosette/CARD11//growth_rep5_rd1_clean/sim1/enrich2/data/count_rep2_c1.tsv",
+              "identifiers":[
+
+              ],
+              "name":"rep2_c1",
+              "report filtered read":              false,
+              "timepoint":              1
+            }
+          ]
+        },
+        {
+          "name":"rep3",
+          "libraries":[
+            {
+              "counts file":"results/rosette/CARD11//growth_rep5_rd1_clean/sim1/enrich2/data/count_rep3_c0.tsv",
+              "identifiers":[
+
+              ],
+              "name":"rep3_c0",
+              "report filtered read":              false,
+              "timepoint":              0
+            },
+            {
+              "counts file":"results/rosette/CARD11//growth_rep5_rd1_clean/sim1/enrich2/data/count_rep3_c1.tsv",
+              "identifiers":[
+
+              ],
+              "name":"rep3_c1",
+              "report filtered read":              false,
+              "timepoint":              1
+            }
+          ]
+        },
+        {
+          "name":"rep4",
+          "libraries":[
+            {
+              "counts file":"results/rosette/CARD11//growth_rep5_rd1_clean/sim1/enrich2/data/count_rep4_c0.tsv",
+              "identifiers":[
+
+              ],
+              "name":"rep4_c0",
+              "report filtered read":              false,
+              "timepoint":              0
+            },
+            {
+              "counts file":"results/rosette/CARD11//growth_rep5_rd1_clean/sim1/enrich2/data/count_rep4_c1.tsv",
+              "identifiers":[
+
+              ],
+              "name":"rep4_c1",
+              "report filtered read":              false,
+              "timepoint":              1
+            }
+          ]
+        },
+        {
+          "name":"rep5",
+          "libraries":[
+            {
+              "counts file":"results/rosette/CARD11//growth_rep5_rd1_clean/sim1/enrich2/data/count_rep5_c0.tsv",
+              "identifiers":[
+
+              ],
+              "name":"rep5_c0",
+              "report filtered read":              false,
+              "timepoint":              0
+            },
+            {
+              "counts file":"results/rosette/CARD11//growth_rep5_rd1_clean/sim1/enrich2/data/count_rep5_c1.tsv",
+              "identifiers":[
+
+              ],
+              "name":"rep5_c1",
+              "report filtered read":              false,
+              "timepoint":              1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

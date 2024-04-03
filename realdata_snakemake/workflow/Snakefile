@@ -1,0 +1,35 @@
+import numpy as np
+
+# v_data = ["BRCA1", "CARD11", "MET", "MSH2", "OCT1", "BRCA1-RING"]
+# v_data = ["OCT1", "MET"]
+# v_data = ["OCT1"]
+v_data = ["Cohesin"]
+# v_mode = ['rep1_1', 'rep1_2', 'rep1_3', 'rep2_1', 'rep2_2', 'rep2_3', 'rep3_1']
+
+
+rule all:
+    input:
+        expand("results/{data}/plot/{plot}", plot = ["rank_fdr_syn.png", "gnomad_roc.png"], data = v_data)
+        # expand("replicates/{data}/{mode}/plot/{plot}", plot = ["stop_corr.png"], data = v_data, mode = v_mode)
+        # expand("replicates/{data}/{mode}/analysis/exp_power.tsv", data = v_data, mode = v_mode)
+        # expand("replicates/{data}/{mode}/rosace/rosace_eval.rda", data = v_data, mode = v_mode),
+        # expand("replicates/{data}/{mode}/rosace_nopos/rosace_eval.rda", data = v_data, mode = v_mode),
+        # expand("replicates/{data}/{mode}/mutscan/score_edgeR.tsv", data = v_data, mode = v_mode),
+        # expand("replicates/{data}/{mode}/mutscan/score_limma.tsv", data = v_data, mode = v_mode),
+        # expand("replicates/{data}/{mode}/dimsum/DiMSum_Project/DiMSum_Project_fitness_replicates.RData", data = v_data, mode = v_mode),
+        # expand("replicates/{data}/{mode}/enrich2/results/tsv/simulation_exp/main_identifiers_scores.tsv", data = v_data, mode = v_mode),
+        # expand("replicates/{data}/{mode}/enrich2/results/tsv/simulation_exp/main_identifiers_scores_pvalues_wt.tsv", data = v_data, mode = v_mode)
+        # expand("results/{data}/mutscan/score_edgeR.tsv", data = v_data),
+        # expand("results/{data}/mutscan/score_limma.tsv", data = v_data),
+        # expand("results/{data}/dimsum/DiMSum_Project/DiMSum_Project_fitness_replicates.RData", data = v_data),
+        # expand("results/{data}/enrich2/results/tsv/simulation_exp/main_identifiers_scores.tsv", data = v_data),
+        # expand("results/{data}/enrich2/results/tsv/simulation_exp/main_identifiers_scores_pvalues_wt.tsv", data = v_data)
+        # expand("results/{data}/rosace/rosace_eval.rda", data = v_data)
+        # expand("results/{data}/rosace_nopos/rosace_eval.rda", data = v_data) 
+        # expand("results/{data}/plot/{plot}", plot = ["rank_fdr_syn.png", "gnomad_roc.png"], data = v_data)
+        # expand("results/{data}/rosace/rosace_eval.rda", data = v_data),
+        # expand("results/{data}/analysis/effects.tsv", data = v_data),
+        # expand("results/{data}/analysis/rosace_full.rda", data = v_data)
+
+include: "rules/method.smk"
+# include: "rules/replicate.smk"

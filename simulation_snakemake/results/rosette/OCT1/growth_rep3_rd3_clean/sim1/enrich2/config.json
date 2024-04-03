@@ -1,0 +1,134 @@
+{
+  "name":"simulation",
+  "output directory":"results/rosette/OCT1//growth_rep3_rd3_clean/sim1/enrich2/results",
+  "conditions":[
+    {
+      "name":"clean",
+      "selections":[
+        {
+          "name":"rep1",
+          "libraries":[
+            {
+              "counts file":"results/rosette/OCT1//growth_rep3_rd3_clean/sim1/enrich2/data/count_rep1_c0.tsv",
+              "identifiers":[
+
+              ],
+              "name":"rep1_c0",
+              "report filtered read":              false,
+              "timepoint":              0
+            },
+            {
+              "counts file":"results/rosette/OCT1//growth_rep3_rd3_clean/sim1/enrich2/data/count_rep1_c1.tsv",
+              "identifiers":[
+
+              ],
+              "name":"rep1_c1",
+              "report filtered read":              false,
+              "timepoint":              1
+            },
+            {
+              "counts file":"results/rosette/OCT1//growth_rep3_rd3_clean/sim1/enrich2/data/count_rep1_c2.tsv",
+              "identifiers":[
+
+              ],
+              "name":"rep1_c2",
+              "report filtered read":              false,
+              "timepoint":              2
+            },
+            {
+              "counts file":"results/rosette/OCT1//growth_rep3_rd3_clean/sim1/enrich2/data/count_rep1_c3.tsv",
+              "identifiers":[
+
+              ],
+              "name":"rep1_c3",
+              "report filtered read":              false,
+              "timepoint":              3
+            }
+          ]
+        },
+        {
+          "name":"rep2",
+          "libraries":[
+            {
+              "counts file":"results/rosette/OCT1//growth_rep3_rd3_clean/sim1/enrich2/data/count_rep2_c0.tsv",
+              "identifiers":[
+
+              ],
+              "name":"rep2_c0",
+              "report filtered read":              false,
+              "timepoint":              0
+            },
+            {
+              "counts file":"results/rosette/OCT1//growth_rep3_rd3_clean/sim1/enrich2/data/count_rep2_c1.tsv",
+              "identifiers":[
+
+              ],
+              "name":"rep2_c1",
+              "report filtered read":              false,
+              "timepoint":              1
+            },
+            {
+              "counts file":"results/rosette/OCT1//growth_rep3_rd3_clean/sim1/enrich2/data/count_rep2_c2.tsv",
+              "identifiers":[
+
+              ],
+              "name":"rep2_c2",
+              "report filtered read":              false,
+              "timepoint":              2
+            },
+            {
+              "counts file":"results/rosette/OCT1//growth_rep3_rd3_clean/sim1/enrich2/data/count_rep2_c3.tsv",
+              "identifiers":[
+
+              ],
+              "name":"rep2_c3",
+              "report filtered read":              false,
+              "timepoint":              3
+            }
+          ]
+        },
+        {
+          "name":"rep3",
+          "libraries":[
+            {
+              "counts file":"results/rosette/OCT1//growth_rep3_rd3_clean/sim1/enrich2/data/count_rep3_c0.tsv",
+              "identifiers":[
+
+              ],
+              "name":"rep3_c0",
+              "report filtered read":              false,
+              "timepoint":              0
+            },
+            {
+              "counts file":"results/rosette/OCT1//growth_rep3_rd3_clean/sim1/enrich2/data/count_rep3_c1.tsv",
+              "identifiers":[
+
+              ],
+              "name":"rep3_c1",
+              "report filtered read":              false,
+              "timepoint":              1
+            },
+            {
+              "counts file":"results/rosette/OCT1//growth_rep3_rd3_clean/sim1/enrich2/data/count_rep3_c2.tsv",
+              "identifiers":[
+
+              ],
+              "name":"rep3_c2",
+              "report filtered read":              false,
+              "timepoint":              2
+            },
+            {
+              "counts file":"results/rosette/OCT1//growth_rep3_rd3_clean/sim1/enrich2/data/count_rep3_c3.tsv",
+              "identifiers":[
+
+              ],
+              "name":"rep3_c3",
+              "report filtered read":              false,
+              "timepoint":              3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

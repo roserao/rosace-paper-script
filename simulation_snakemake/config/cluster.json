@@ -1,0 +1,25 @@
+{
+    "__default__": {
+        "queue": "highp",
+        "memory": "4G",
+        "name": "{rule}",
+        "output": "/u/home/r/roserao/project-hjp/DMS_rosace1_simulation/logs/{rule}.out",
+        "runtime": "0:30:00",
+        "threads": 1
+    },
+    "run_rosace":{
+        "memory": "8G",
+        "runtime": "8:00:00",
+        "threads": 4
+    },
+    "run_rosace_nopos":{
+        "memory": "8G",
+        "runtime": "8:00:00",
+        "threads": 4
+    },
+    "run_rosace_simdms":{
+        "memory": "8G",
+        "runtime": "8:00:00",
+        "threads": 4
+    }
+}

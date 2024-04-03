@@ -1,0 +1,492 @@
+hgvs	type	clinvar	wildtype_3	mutation_3	position	wildtype	mutation
+p.Ala2Thr	missense	Likely benign	Ala	Thr	2	A	T
+p.Ala2Ala	synonymous	Likely benign	Ala	Ala	2	A	A
+p.Ala2Ala	synonymous	Likely benign	Ala	Ala	2	A	A
+p.Val3Leu	missense	Benign	Val	Leu	3	V	L
+p.Val3Val	synonymous	Likely benign	Val	Val	3	V	V
+p.Gln4Gln	synonymous	Likely benign	Gln	Gln	4	Q	Q
+p.Gln4His	missense	Likely benign	Gln	His	4	Q	H
+p.Pro5Pro	synonymous	Likely benign	Pro	Pro	5	P	P
+p.Thr8Met	missense	Benign	Thr	Met	8	T	M
+p.Leu11Leu	synonymous	Likely benign	Leu	Leu	11	L	L
+p.Glu12GlyfsTer70	frameshift	Pathogenic	Glu	r70	1270	E	NA
+p.Ala15Ala	synonymous	Likely benign	Ala	Ala	15	A	A
+p.Ala15Ala	synonymous	Likely benign	Ala	Ala	15	A	A
+p.Phe19Phe	synonymous	Likely benign	Phe	Phe	19	F	F
+p.Val20Val	synonymous	Likely benign	Val	Val	20	V	V
+p.Arg21Arg	synonymous	Likely benign	Arg	Arg	21	R	R
+p.Arg21Arg	synonymous	Likely benign	Arg	Arg	21	R	R
+p.Phe22Phe	synonymous	Likely benign	Phe	Phe	22	F	F
+p.Gln24Gln	synonymous	Likely benign	Gln	Gln	24	Q	Q
+p.Glu28Glu	synonymous	Likely benign	Glu	Glu	28	E	E
+p.Lys29Ter	stop	Pathogenic	Lys	Ter	29	K	*
+p.Thr31Thr	synonymous	Likely benign	Thr	Thr	31	T	T
+p.Thr32Thr	synonymous	Likely benign	Thr	Thr	32	T	T
+p.Thr33Thr	synonymous	Likely benign	Thr	Thr	33	T	T
+p.Phe37SerfsTer27	frameshift	Pathogenic	Phe	r27	3727	F	NA
+p.Leu36Leu	synonymous	Likely benign	Leu	Leu	36	L	L
+p.Gly40AlafsTer24	frameshift	Pathogenic	Gly	r24	4024	G	NA
+p.Arg39Arg	synonymous	Likely benign	Arg	Arg	39	R	R
+p.Asp41Asp	synonymous	Likely benign	Asp	Asp	41	D	D
+p.Tyr43Tyr	synonymous	Likely benign	Tyr	Tyr	43	Y	Y
+p.Thr44Thr	synonymous	Likely benign	Thr	Thr	44	T	T
+p.His46Gln	missense	Likely benign	His	Gln	46	H	Q
+p.His46His	synonymous	Likely benign	His	His	46	H	H
+p.Gly47Arg	missense	Likely benign	Gly	Arg	47	G	R
+p.Gly47Gly	synonymous	Likely benign	Gly	Gly	47	G	G
+p.Glu48Ter	stop	Pathogenic	Glu	Ter	48	E	*
+p.Asp49Asp	synonymous	Likely benign	Asp	Asp	49	D	D
+p.Ala50Ala	synonymous	Likely benign	Ala	Ala	50	A	A
+p.Ala50Ala	synonymous	Likely benign	Ala	Ala	50	A	A
+p.Leu51Leu	synonymous	Likely benign	Leu	Leu	51	L	L
+p.Leu52Leu	synonymous	Likely benign	Leu	Leu	52	L	L
+p.Leu52Pro	missense	Likely benign	Leu	Pro	52	L	P
+p.Leu52Leu	synonymous	Likely benign	Leu	Leu	52	L	L
+p.Leu52Leu	synonymous	Likely benign	Leu	Leu	52	L	L
+p.Leu52Leu	synonymous	Likely benign	Leu	Leu	52	L	L
+p.Ala53Ala	synonymous	Likely benign	Ala	Ala	53	A	A
+p.Ala53Ala	synonymous	Likely benign	Ala	Ala	53	A	A
+p.Arg55GlyfsTer9	frameshift	Pathogenic	Arg	er9	559	R	NA
+p.Arg55Gln	missense	Likely benign	Arg	Gln	55	R	Q
+p.Phe58Leu	missense	Likely benign	Phe	Leu	58	F	L
+p.Thr60Thr	synonymous	Likely benign	Thr	Thr	60	T	T
+p.Gln61Ter	stop	Pathogenic	Gln	Ter	61	Q	*
+p.Gln61ArgfsTer3	frameshift	Pathogenic	Gln	er3	613	Q	NA
+p.Gln61Arg	missense	Likely benign	Gln	Arg	61	Q	R
+p.Val63GlyfsTer2	frameshift	Pathogenic	Val	er2	632	V	NA
+p.Gly62Gly	synonymous	Likely benign	Gly	Gly	62	G	G
+p.Gly62Gly	synonymous	Likely benign	Gly	Gly	62	G	G
+p.Val63Val	synonymous	Likely benign	Val	Val	63	V	V
+p.Gly68Trp	missense	Likely benign	Gly	Trp	68	G	W
+p.Gly68Gly	synonymous	Likely benign	Gly	Gly	68	G	G
+p.Pro69Pro	synonymous	Likely benign	Pro	Pro	69	P	P
+p.Pro69Pro	synonymous	Likely benign	Pro	Pro	69	P	P
+p.Pro69Pro	synonymous	Likely benign	Pro	Pro	69	P	P
+p.Gly71Gly	splice	Likely benign	Gly	Gly	71	G	G
+p.Ala72Ala	synonymous	Likely benign	Ala	Ala	72	A	A
+p.Gln76His	missense	Likely benign	Gln	His	76	Q	H
+p.Ser77Ile	missense	Likely benign	Ser	Ile	77	S	I
+p.Val78Val	synonymous	Likely benign	Val	Val	78	V	V
+p.Val79Val	synonymous	Likely benign	Val	Val	79	V	V
+p.Leu80Phe	missense	Likely benign	Leu	Phe	80	L	F
+p.Lys82Glu	missense	Likely benign	Lys	Glu	82	K	E
+p.Glu86Ter	stop	Pathogenic	Glu	Ter	86	E	*
+p.Val89Val	synonymous	Likely benign	Val	Val	89	V	V
+p.Leu94del	inframe	Benign	Leu	del	94	L	NA
+p.Leu92Leu	synonymous	Likely benign	Leu	Leu	92	L	L
+p.Leu93Phe	missense	Likely pathogenic	Leu	Phe	93	L	F
+p.Leu94Leu	synonymous	Likely benign	Leu	Leu	94	L	L
+p.Val95Leu	missense	Likely benign	Val	Leu	95	V	L
+p.Val95Val	synonymous	Likely benign	Val	Val	95	V	V
+p.Val95Val	synonymous	Likely benign	Val	Val	95	V	V
+p.Arg96His	missense	Likely benign	Arg	His	96	R	H
+p.Gln97Gln	synonymous	Likely benign	Gln	Gln	97	Q	Q
+p.Tyr98Cys	missense	Likely benign	Tyr	Cys	98	Y	C
+p.Tyr98Tyr	synonymous	Likely benign	Tyr	Tyr	98	Y	Y
+p.Tyr98Ter	stop	Pathogenic	Tyr	Ter	98	Y	*
+p.Glu101Glu	synonymous	Likely benign	Glu	Glu	101	E	E
+p.Val102Ile	missense	Likely benign	Val	Ile	102	V	I
+p.Lys104Glu	missense	Likely benign	Lys	Glu	104	K	E
+p.Lys104Asn	missense	Likely benign	Lys	Asn	104	K	N
+p.Asn105Asn	synonymous	Likely benign	Asn	Asn	105	N	N
+p.Arg106Arg	synonymous	Likely benign	Arg	Arg	106	R	R
+p.Arg106Gly	missense	Likely benign	Arg	Gly	106	R	G
+p.Arg106Lys	missense	Benign	Arg	Lys	106	R	K
+p.Ala111Ala	synonymous	Likely benign	Ala	Ala	111	A	A
+p.Ser112Ser	synonymous	Likely benign	Ser	Ser	112	S	S
+p.Lys113Lys	synonymous	Benign	Lys	Lys	113	K	K
+p.Trp117Ter	stop	Pathogenic	Trp	Ter	117	W	*
+p.Pro125Ser	missense	Likely benign	Pro	Ser	125	P	S
+p.Pro125Pro	synonymous	Likely benign	Pro	Pro	125	P	P
+p.Asn127Ser	missense	Benign	Asn	Ser	127	N	S
+p.Gln130ValfsTer2	frameshift	Pathogenic	Gln	er2	1302	Q	NA
+p.Leu128Leu	synonymous	Likely benign	Leu	Leu	128	L	L
+p.Leu128Leu	synonymous	Likely benign	Leu	Leu	128	L	L
+p.Leu128Leu	synonymous	Likely benign	Leu	Leu	128	L	L
+p.Ser129Pro	missense	Likely benign	Ser	Pro	129	S	P
+p.Gln130ValfsTer2	frameshift	Pathogenic	Gln	er2	1302	Q	NA
+p.Leu135Leu	synonymous	Likely benign	Leu	Leu	135	L	L
+p.Phe136Phe	synonymous	Likely benign	Phe	Phe	136	F	F
+p.Ser142Ser	synonymous	Likely benign	Ser	Ser	142	S	S
+p.Ala143Ala	synonymous	Likely benign	Ala	Ala	143	A	A
+p.Ala154Pro	missense	Likely benign	Ala	Pro	154	A	P
+p.Ala154Ala	synonymous	Likely benign	Ala	Ala	154	A	A
+p.Gly157Gly	synonymous	Likely benign	Gly	Gly	157	G	G
+p.Arg159Arg	synonymous	Likely benign	Arg	Arg	159	R	R
+p.Gly162Arg	missense	Pathogenic	Gly	Arg	162	G	R
+p.Val163Gly	missense	Pathogenic	Val	Gly	163	V	G
+p.Asp167His	missense	Benign	Asp	His	167	D	H
+p.Ile169Val	missense	Likely benign	Ile	Val	169	I	V
+p.Lys172Lys	synonymous	Likely benign	Lys	Lys	172	K	K
+p.Leu173Pro	missense	Likely pathogenic	Leu	Pro	173	L	P
+p.Leu173Leu	synonymous	Likely benign	Leu	Leu	173	L	L
+p.Leu175Leu	synonymous	Likely benign	Leu	Leu	175	L	L
+p.Leu175Leu	synonymous	Likely benign	Leu	Leu	175	L	L
+p.Glu177Glu	synonymous	Likely benign	Glu	Glu	177	E	E
+p.Phe178Phe	synonymous	Likely benign	Phe	Phe	178	F	F
+p.Asn181Asp	missense	Likely benign	Asn	Asp	181	N	D
+p.Asn181Asn	synonymous	Likely benign	Asn	Asn	181	N	N
+p.Gln183Arg	missense	Benign	Gln	Arg	183	Q	R
+p.Gln183Gln	synonymous	Likely benign	Gln	Gln	183	Q	Q
+p.Ser185Ser	synonymous	Likely benign	Ser	Ser	185	S	S
+p.Leu187Leu	synonymous	Likely benign	Leu	Leu	187	L	L
+p.Leu190Leu	synonymous	Likely benign	Leu	Leu	190	L	L
+p.Leu191Leu	synonymous	Benign	Leu	Leu	191	L	L
+p.Leu191Leu	synonymous	Likely benign	Leu	Leu	191	L	L
+p.Ile192Ile	synonymous	Likely benign	Ile	Ile	192	I	I
+p.Gln193Gln	synonymous	Likely benign	Gln	Gln	193	Q	Q
+p.Val200PhefsTer31	frameshift	Pathogenic	Val	r31	20031	V	NA
+p.Val200Asp	missense	Pathogenic	Val	Asp	200	V	D
+p.Gly203Ala	missense	Likely benign	Gly	Ala	203	G	A
+p.Ala207Val	missense	Likely benign	Ala	Val	207	A	V
+p.Gly208Gly	synonymous	Likely benign	Gly	Gly	208	G	G
+p.Gly211Gly	synonymous	Likely benign	Gly	Gly	211	G	G
+p.Leu213Leu	synonymous	Likely benign	Leu	Leu	213	L	L
+p.Gln218Gln	synonymous	Likely benign	Gln	Gln	218	Q	Q
+p.Arg219Arg	synonymous	Likely benign	Arg	Arg	219	R	R
+p.Leu223Leu	synonymous	Likely benign	Leu	Leu	223	L	L
+p.Ile224Ile	synonymous	Likely benign	Ile	Ile	224	I	I
+p.Ala230SerfsTer2	frameshift	Pathogenic	Ala	er2	2302	A	NA
+p.Lys229Lys	synonymous	Likely benign	Lys	Lys	229	K	K
+p.Ala230Ala	synonymous	Likely benign	Ala	Ala	230	A	A
+p.Asp231Asp	synonymous	Likely benign	Asp	Asp	231	D	D
+p.Phe232Phe	synonymous	Likely benign	Phe	Phe	232	F	F
+p.Ser233Ser	synonymous	Likely benign	Ser	Ser	233	S	S
+p.Lys235ArgfsTer20	frameshift	Pathogenic	Lys	r20	23520	K	NA
+p.Thr234Thr	synonymous	Likely benign	Thr	Thr	234	T	T
+p.Thr234Thr	synonymous	Likely benign	Thr	Thr	234	T	T
+p.Tyr238Tyr	synonymous	Likely benign	Tyr	Tyr	238	Y	Y
+p.Leu241Leu	synonymous	Likely benign	Leu	Leu	241	L	L
+p.Asn242Asn	synonymous	Likely benign	Asn	Asn	242	N	N
+p.Leu245Leu	synonymous	Likely benign	Leu	Leu	245	L	L
+p.Leu245Leu	synonymous	Likely benign	Leu	Leu	245	L	L
+p.Gly247Gly	synonymous	Likely benign	Gly	Gly	247	G	G
+p.Lys249ArgfsTer6	frameshift	Pathogenic	Lys	er6	2496	K	NA
+p.Gln252Ter	stop	Pathogenic	Gln	Ter	252	Q	*
+p.Ala256Ala	synonymous	Likely benign	Ala	Ala	256	A	A
+p.Val257Val	synonymous	Likely benign	Val	Val	257	V	V
+p.Leu258Leu	synonymous	Likely benign	Leu	Leu	258	L	L
+p.Pro259Pro	synonymous	Likely benign	Pro	Pro	259	P	P
+p.Ser268Ser	synonymous	Likely benign	Ser	Ser	268	S	S
+p.Ser268Ser	synonymous	Likely benign	Ser	Ser	268	S	S
+p.Leu270Leu	synonymous	Likely benign	Leu	Leu	270	L	L
+p.Ala272Val	missense	Benign	Ala	Val	272	A	V
+p.Ala272Ala	synonymous	Likely benign	Ala	Ala	272	A	A
+p.Ile274Ile	synonymous	Likely benign	Ile	Ile	274	I	I
+p.Lys275Lys	synonymous	Likely benign	Lys	Lys	275	K	K
+p.Leu277Leu	synonymous	Likely benign	Leu	Leu	277	L	L
+p.Leu279Leu	synonymous	Likely benign	Leu	Leu	279	L	L
+p.Leu280Leu	synonymous	Likely benign	Leu	Leu	280	L	L
+p.Asp283Tyr	missense	Likely benign	Asp	Tyr	283	D	Y
+p.Ser284Ser	synonymous	Likely benign	Ser	Ser	284	S	S
+p.Phe286Phe	synonymous	Likely benign	Phe	Phe	286	F	F
+p.Gly287Gly	synonymous	Likely benign	Gly	Gly	287	G	G
+p.Gln288Gln	synonymous	Likely benign	Gln	Gln	288	Q	Q
+p.Phe289Phe	synonymous	Likely benign	Phe	Phe	289	F	F
+p.Glu290Glu	synonymous	Likely benign	Glu	Glu	290	E	E
+p.Leu291Leu	synonymous	Likely benign	Leu	Leu	291	L	L
+p.Thr292Thr	synonymous	Likely benign	Thr	Thr	292	T	T
+p.Asp295Ala	missense	Likely benign	Asp	Ala	295	D	A
+p.Asp295Asp	synonymous	Likely benign	Asp	Asp	295	D	D
+p.Phe296Phe	synonymous	Likely benign	Phe	Phe	296	F	F
+p.Gln298Ter	stop	Pathogenic	Gln	Ter	298	Q	*
+p.Tyr299Tyr	synonymous	Likely benign	Tyr	Tyr	299	Y	Y
+p.Ala305Ala	synonymous	Likely benign	Ala	Ala	305	A	A
+p.Ala306Ala	synonymous	Likely benign	Ala	Ala	306	A	A
+p.Gln314ArgfsTer17	frameshift	Pathogenic	Gln	r17	31417	Q	NA
+p.Leu312Pro	missense	Likely benign	Leu	Pro	312	L	P
+p.Gln314His	missense	Likely pathogenic	Gln	His	314	Q	H
+p.Gly315Val	missense	Likely benign	Gly	Val	315	G	V
+p.Val317Ile	missense	Benign	Val	Ile	317	V	I
+p.Thr320Thr	synonymous	Likely benign	Thr	Thr	320	T	T
+p.Gly322Asp	missense	Benign	Gly	Asp	322	G	D
+p.Gln324ValfsTer8	frameshift	Pathogenic	Gln	er8	3248	Q	NA
+p.Gln324Gln	synonymous	Likely benign	Gln	Gln	324	Q	Q
+p.Ser325Phe	missense	Likely benign	Ser	Phe	325	S	F
+p.Ser325Ser	synonymous	Likely benign	Ser	Ser	325	S	S
+p.Leu326Leu	synonymous	Likely benign	Leu	Leu	326	L	L
+p.Ala328Ser	missense	Likely benign	Ala	Ser	328	A	S
+p.Ala328Ala	synonymous	Likely benign	Ala	Ala	328	A	A
+p.Ala328Ala	synonymous	Likely benign	Ala	Ala	328	A	A
+p.Asn331GlufsTer2	frameshift	Pathogenic	Asn	er2	3312	N	NA
+p.Leu330Leu	synonymous	Likely benign	Leu	Leu	330	L	L
+p.Lys332Lys	synonymous	Likely benign	Lys	Lys	332	K	K
+p.Thr335Thr	synonymous	Benign	Thr	Thr	335	T	T
+p.Pro336Pro	synonymous	Likely benign	Pro	Pro	336	P	P
+p.Gln337Ter	stop	Pathogenic	Gln	Ter	337	Q	*
+p.Gln337Gln	synonymous	Likely benign	Gln	Gln	337	Q	Q
+p.Gly338Glu	missense	Pathogenic	Gly	Glu	338	G	E
+p.Gly338Gly	synonymous	Likely benign	Gly	Gly	338	G	G
+p.Gln339Gln	synonymous	Likely benign	Gln	Gln	339	Q	Q
+p.Arg340Arg	synonymous	Likely benign	Arg	Arg	340	R	R
+p.Gln344Gln	synonymous	Likely benign	Gln	Gln	344	Q	Q
+p.Lys347Lys	synonymous	Likely benign	Lys	Lys	347	K	K
+p.Leu350Leu	synonymous	Likely benign	Leu	Leu	350	L	L
+p.Met351AsnfsTer3	frameshift	Pathogenic	Met	er3	3513	M	NA
+p.Leu350Leu	synonymous	Likely benign	Leu	Leu	350	L	L
+p.Glu358Glu	splice	Likely benign	Glu	Glu	358	E	E
+p.Val363Val	synonymous	Likely benign	Val	Val	363	V	V
+p.Ala365Ala	synonymous	Likely benign	Ala	Ala	365	A	A
+p.Ala370Val	missense	Likely benign	Ala	Val	370	A	V
+p.Glu371Glu	synonymous	Likely benign	Glu	Glu	371	E	E
+p.Leu372Leu	synonymous	Likely benign	Leu	Leu	372	L	L
+p.Arg373SerfsTer39	frameshift	Pathogenic	Arg	r39	37339	R	NA
+p.Leu376Ser	missense	Likely benign	Leu	Ser	376	L	S
+p.Glu378Ala	missense	Likely benign	Glu	Ala	378	E	A
+p.Arg383Ter	stop	Pathogenic	Arg	Ter	383	R	*
+p.Asn388Asn	synonymous	Likely benign	Asn	Asn	388	N	N
+p.Arg389Arg	synonymous	Likely benign	Arg	Arg	389	R	R
+p.Arg389Ter	stop	Pathogenic	Arg	Ter	389	R	*
+p.Leu390Phe	missense	Benign	Leu	Phe	390	L	F
+p.Lys393Ter	stop	Pathogenic	Lys	Ter	393	K	*
+p.Lys393Lys	synonymous	Likely benign	Lys	Lys	393	K	K
+p.Gln395Gln	synonymous	Likely benign	Gln	Gln	395	Q	Q
+p.Gln397Gln	synonymous	Likely benign	Gln	Gln	397	Q	Q
+p.Ala398Ala	synonymous	Likely benign	Ala	Ala	398	A	A
+p.Gln402Gln	synonymous	Likely benign	Gln	Gln	402	Q	Q
+p.Asp403Asp	synonymous	Likely benign	Asp	Asp	403	D	D
+p.Cys404Cys	synonymous	Likely benign	Cys	Cys	404	C	C
+p.Arg406Ter	stop	Pathogenic	Arg	Ter	406	R	*
+p.Leu407Leu	synonymous	Likely benign	Leu	Leu	407	L	L
+p.Tyr408Phe	missense	Likely benign	Tyr	Phe	408	Y	F
+p.Gln409ArgfsTer7	frameshift	Pathogenic	Gln	er7	4097	Q	NA
+p.Gly410Gly	synonymous	Likely benign	Gly	Gly	410	G	G
+p.Leu414Leu	synonymous	Likely benign	Leu	Leu	414	L	L
+p.Asn416Asn	synonymous	Likely benign	Asn	Asn	416	N	N
+p.Val417Val	synonymous	Likely benign	Val	Val	417	V	V
+p.Gln419Lys	missense	Likely benign	Gln	Lys	419	Q	K
+p.Ala420Ser	missense	Benign	Ala	Ser	420	A	S
+p.Leu421Leu	synonymous	Likely benign	Leu	Leu	421	L	L
+p.Gly426Ter	stop	Pathogenic	Gly	Ter	426	G	*
+p.His428His	synonymous	Likely benign	His	His	428	H	H
+p.Leu431Leu	synonymous	Likely benign	Leu	Leu	431	L	L
+p.Leu432Leu	synonymous	Likely benign	Leu	Leu	432	L	L
+p.Leu433Leu	synonymous	Likely benign	Leu	Leu	433	L	L
+p.Ala434Ala	synonymous	Likely benign	Ala	Ala	434	A	A
+p.Thr438Thr	synonymous	Likely benign	Thr	Thr	438	T	T
+p.Asp442Asp	synonymous	Likely benign	Asp	Asp	442	D	D
+p.Leu443Leu	synonymous	Likely benign	Leu	Leu	443	L	L
+p.Phe447Phe	synonymous	Likely benign	Phe	Phe	447	F	F
+p.Ser448Ser	synonymous	Likely benign	Ser	Ser	448	S	S
+p.Gln451Gln	synonymous	Likely benign	Gln	Gln	451	Q	Q
+p.Glu452Glu	synonymous	Likely benign	Glu	Glu	452	E	E
+p.Leu458Leu	synonymous	Likely benign	Leu	Leu	458	L	L
+p.Asp459Asp	synonymous	Likely benign	Asp	Asp	459	D	D
+p.Asn465Asn	synonymous	Likely benign	Asn	Asn	465	N	N
+p.Glu467Ter	stop	Pathogenic	Glu	Ter	467	E	*
+p.Glu467Glu	synonymous	Likely benign	Glu	Glu	467	E	E
+p.Val470Val	synonymous	Likely benign	Val	Val	470	V	V
+p.Val470Val	synonymous	Likely benign	Val	Val	470	V	V
+p.Lys471Lys	synonymous	Likely benign	Lys	Lys	471	K	K
+p.Ser473Ser	synonymous	Likely benign	Ser	Ser	473	S	S
+p.Ser479Asn	missense	Benign	Ser	Asn	479	S	N
+p.Glu480Glu	synonymous	Likely benign	Glu	Glu	480	E	E
+p.Leu488Leu	synonymous	Likely benign	Leu	Leu	488	L	L
+p.Gln493Ter	stop	Pathogenic	Gln	Ter	493	Q	*
+p.Thr495Thr	synonymous	Likely benign	Thr	Thr	495	T	T
+p.Leu496Leu	synonymous	Likely benign	Leu	Leu	496	L	L
+p.Ala499CysfsTer14	frameshift	Pathogenic	Ala	r14	49914	A	NA
+p.Ala499Ala	synonymous	Likely benign	Ala	Ala	499	A	A
+p.Leu505Leu	splice	Likely benign	Leu	Leu	505	L	L
+p.Gly508Gly	synonymous	Likely benign	Gly	Gly	508	G	G
+p.Gln510Gln	synonymous	Likely benign	Gln	Gln	510	Q	Q
+p.Leu513ArgfsTer15	frameshift	Pathogenic	Leu	r15	51315	L	NA
+p.Ser515Ser	synonymous	Likely benign	Ser	Ser	515	S	S
+p.Ala517Glu	missense	Likely benign	Ala	Glu	517	A	E
+p.Ala517Ala	synonymous	Likely benign	Ala	Ala	517	A	A
+p.Ala517Ala	synonymous	Likely benign	Ala	Ala	517	A	A
+p.Tyr522Tyr	synonymous	Likely benign	Tyr	Tyr	522	Y	Y
+p.Arg524Arg	synonymous	Likely benign	Arg	Arg	524	R	R
+p.Val525Val	synonymous	Benign	Val	Val	525	V	V
+p.Cys527ValfsTer16	frameshift	Pathogenic	Cys	r16	52716	C	NA
+p.Thr526Thr	synonymous	Likely benign	Thr	Thr	526	T	T
+p.Cys527Cys	synonymous	Likely benign	Cys	Cys	527	C	C
+p.Glu530LysfsTer13	frameshift	Pathogenic	Glu	r13	53013	E	NA
+p.Asn535Lys	missense	Likely benign	Asn	Lys	535	N	K
+p.Asn535Asn	synonymous	Likely benign	Asn	Asn	535	N	N
+p.Lys537Ter	stop	Pathogenic	Lys	Ter	537	K	*
+p.Asn538Asn	synonymous	Likely benign	Asn	Asn	538	N	N
+p.Phe539Phe	synonymous	Likely benign	Phe	Phe	539	F	F
+p.Thr541Thr	synonymous	Likely benign	Thr	Thr	541	T	T
+p.Val542Val	synonymous	Likely benign	Val	Val	542	V	V
+p.Ile544Ile	synonymous	Likely benign	Ile	Ile	544	I	I
+p.Gln545Gln	synonymous	Likely benign	Gln	Gln	545	Q	Q
+p.Lys546Lys	synonymous	Likely benign	Lys	Lys	546	K	K
+p.Thr552Thr	synonymous	Likely benign	Thr	Thr	552	T	T
+p.Leu556Leu	synonymous	Benign	Leu	Leu	556	L	L
+p.Asn560Asn	synonymous	Likely benign	Asn	Asn	560	N	N
+p.Glu562Glu	synonymous	Likely benign	Glu	Glu	562	E	E
+p.Thr564Ala	missense	Benign	Thr	Ala	564	T	A
+p.Thr564Thr	synonymous	Likely benign	Thr	Thr	564	T	T
+p.Asn566LysfsTer2	frameshift	Pathogenic	Asn	er2	5662	N	NA
+p.Lys567ArgfsTer3	frameshift	Pathogenic	Lys	er3	5673	K	NA
+p.Thr568GlnfsTer22	frameshift	Pathogenic	Thr	r22	56822	T	NA
+p.Lys567Glu	missense	Likely benign	Lys	Glu	567	K	E
+p.Thr568Thr	synonymous	Likely benign	Thr	Thr	568	T	T
+p.Tyr570Tyr	synonymous	Likely benign	Tyr	Tyr	570	Y	Y
+p.Ala573Ala	synonymous	Likely benign	Ala	Ala	573	A	A
+p.Ala576Ala	synonymous	Likely benign	Ala	Ala	576	A	A
+p.Ile577Thr	missense	Likely benign	Ile	Thr	577	I	T
+p.Lys579Lys	synonymous	Likely benign	Lys	Lys	579	K	K
+p.Val582Val	synonymous	Likely benign	Val	Val	582	V	V
+p.Asn583Thr	missense	Likely benign	Asn	Thr	583	N	T
+p.Ile584Val	missense	Likely benign	Ile	Val	584	I	V
+p.Ser586Ser	splice	Likely benign	Ser	Ser	586	S	S
+p.Tyr588Tyr	synonymous	Likely benign	Tyr	Tyr	588	Y	Y
+p.Glu590Glu	synonymous	Likely benign	Glu	Glu	590	E	E
+p.Pro591Pro	synonymous	Likely benign	Pro	Pro	591	P	P
+p.Thr594Thr	synonymous	Likely benign	Thr	Thr	594	T	T
+p.Asn596del	inframe	Pathogenic	Asn	del	596	N	NA
+p.Val598Val	synonymous	Likely benign	Val	Val	598	V	V
+p.Leu599Leu	synonymous	Likely benign	Leu	Leu	599	L	L
+p.Leu599Leu	synonymous	Likely benign	Leu	Leu	599	L	L
+p.Ala600Val	missense	Likely pathogenic	Ala	Val	600	A	V
+p.Gln601Gln	synonymous	Likely benign	Gln	Gln	601	Q	Q
+p.Leu602Leu	synonymous	Likely benign	Leu	Leu	602	L	L
+p.Asp603Asp	synonymous	Likely benign	Asp	Asp	603	D	D
+p.Gly614Gly	synonymous	Likely benign	Gly	Gly	614	G	G
+p.Tyr619Tyr	synonymous	Likely benign	Tyr	Tyr	619	Y	Y
+p.Arg621Arg	synonymous	Likely benign	Arg	Arg	621	R	R
+p.Pro622Leu	missense	Pathogenic	Pro	Leu	622	P	L
+p.Pro622Pro	synonymous	Likely benign	Pro	Pro	622	P	P
+p.Lys627Lys	synonymous	Likely benign	Lys	Lys	627	K	K
+p.Gln629Arg	missense	Benign	Gln	Arg	629	Q	R
+p.Gly630Gly	synonymous	Likely benign	Gly	Gly	630	G	G
+p.Arg631Ile	missense	Benign	Arg	Ile	631	R	I
+p.Leu634Leu	synonymous	Likely benign	Leu	Leu	634	L	L
+p.Ala636Thr	missense	Benign	Ala	Thr	636	A	T
+p.Ala636Pro	missense	Pathogenic	Ala	Pro	636	A	P
+p.Ser637Ser	synonymous	Likely benign	Ser	Ser	637	S	S
+p.Arg638Arg	synonymous	Likely benign	Arg	Arg	638	R	R
+p.His639Tyr	missense	Pathogenic	His	Tyr	639	H	Y
+p.His639Gln	missense	Likely benign	His	Gln	639	H	Q
+p.Ala640Ser	missense	Benign	Ala	Ser	640	A	S
+p.Ala640Ala	synonymous	Likely benign	Ala	Ala	640	A	A
+p.Cys641Cys	synonymous	Likely benign	Cys	Cys	641	C	C
+p.Gln645Gln	synonymous	Likely benign	Gln	Gln	645	Q	Q
+p.Asp646Asp	synonymous	Likely benign	Asp	Asp	646	D	D
+p.Glu647Lys	missense	Likely benign	Glu	Lys	647	E	K
+p.Ile648Val	missense	Benign	Ile	Val	648	I	V
+p.Ala649Ala	synonymous	Likely benign	Ala	Ala	649	A	A
+p.Ile651TyrfsTer3	frameshift	Pathogenic	Ile	er3	6513	I	NA
+p.Pro652Arg	missense	Likely benign	Pro	Arg	652	P	R
+p.Asp654Asp	synonymous	Likely benign	Asp	Asp	654	D	D
+p.Val655Val	synonymous	Likely benign	Val	Val	655	V	V
+p.Val655Val	synonymous	Likely benign	Val	Val	655	V	V
+p.Phe657LeufsTer28	frameshift	Pathogenic	Phe	r28	65728	F	NA
+p.Tyr656Tyr	synonymous	Likely benign	Tyr	Tyr	656	Y	Y
+p.Gln662HisfsTer13	frameshift	Pathogenic	Gln	r13	66213	Q	NA
+p.Gln662Gln	synonymous	Likely benign	Gln	Gln	662	Q	Q
+p.Phe664Phe	synonymous	Likely benign	Phe	Phe	664	F	F
+p.His665His	synonymous	Likely benign	His	His	665	H	H
+p.Pro670Pro	synonymous	Likely benign	Pro	Pro	670	P	P
+p.Ser676Ser	synonymous	Likely benign	Ser	Ser	676	S	S
+p.Thr677Thr	synonymous	Likely benign	Thr	Thr	677	T	T
+p.Arg680Ter	stop	Pathogenic	Arg	Ter	680	R	*
+p.Gly683Arg	missense	Pathogenic	Gly	Arg	683	G	R
+p.Val684Val	synonymous	Likely benign	Val	Val	684	V	V
+p.Ala689Ala	synonymous	Likely benign	Ala	Ala	689	A	A
+p.Ala689Ala	synonymous	Likely benign	Ala	Ala	689	A	A
+p.Gln690Gln	synonymous	Likely benign	Gln	Gln	690	Q	Q
+p.Phe694Phe	synonymous	Likely benign	Phe	Phe	694	F	F
+p.Pro696Pro	synonymous	Likely benign	Pro	Pro	696	P	P
+p.Pro696Pro	synonymous	Likely benign	Pro	Pro	696	P	P
+p.Glu698Glu	synonymous	Likely benign	Glu	Glu	698	E	E
+p.Ala700Ala	synonymous	Likely benign	Ala	Ala	700	A	A
+p.Ile704Ile	synonymous	Likely benign	Ile	Ile	704	I	I
+p.Cys707Cys	synonymous	Likely benign	Cys	Cys	707	C	C
+p.Ala710Gly	missense	Likely benign	Ala	Gly	710	A	G
+p.Ala710Ala	synonymous	Likely benign	Ala	Ala	710	A	A
+p.Arg711Ter	stop	Pathogenic	Arg	Ter	711	R	*
+p.Val712Val	synonymous	Likely benign	Val	Val	712	V	V
+p.Val712Val	synonymous	Likely benign	Val	Val	712	V	V
+p.Ala714Ala	synonymous	Likely benign	Ala	Ala	714	A	A
+p.Gly715Asp	missense	Likely benign	Gly	Asp	715	G	D
+p.Asp716Asp	synonymous	Likely benign	Asp	Asp	716	D	D
+p.Gln718Ter	stop	Pathogenic	Gln	Ter	718	Q	*
+p.Gln718Gln	synonymous	Likely benign	Gln	Gln	718	Q	Q
+p.Leu719Leu	synonymous	Likely benign	Leu	Leu	719	L	L
+p.Gly721Gly	synonymous	Likely benign	Gly	Gly	721	G	G
+p.Val722Val	synonymous	Likely benign	Val	Val	722	V	V
+p.Thr724Thr	synonymous	Likely benign	Thr	Thr	724	T	T
+p.Thr724Thr	synonymous	Likely benign	Thr	Thr	724	T	T
+p.Ala727Val	missense	Likely benign	Ala	Val	727	A	V
+p.Ala727Ala	synonymous	Likely benign	Ala	Ala	727	A	A
+p.Leu730Leu	synonymous	Likely benign	Leu	Leu	730	L	L
+p.Leu736Leu	splice	Likely benign	Leu	Leu	736	L	L
+p.Thr740Thr	synonymous	Likely benign	Thr	Thr	740	T	T
+p.Leu744Leu	synonymous	Likely benign	Leu	Leu	744	L	L
+p.Ile747Ile	synonymous	Likely benign	Ile	Ile	747	I	I
+p.Gly759Gly	synonymous	Likely benign	Gly	Gly	759	G	G
+p.Gly761Gly	synonymous	Likely benign	Gly	Gly	761	G	G
+p.Leu762Leu	synonymous	Likely benign	Leu	Leu	762	L	L
+p.Ala763Ala	synonymous	Likely benign	Ala	Ala	763	A	A
+p.Ser767Ser	synonymous	Likely benign	Ser	Ser	767	S	S
+p.Tyr769Tyr	synonymous	Likely benign	Tyr	Tyr	769	Y	Y
+p.Ile770Ile	synonymous	Likely benign	Ile	Ile	770	I	I
+p.Ile774Ile	synonymous	Likely benign	Ile	Ile	774	I	I
+p.Ile774Ile	synonymous	Likely benign	Ile	Ile	774	I	I
+p.Cys778AlafsTer34	frameshift	Pathogenic	Cys	r34	77834	C	NA
+p.His783IlefsTer29	frameshift	Pathogenic	His	r29	78329	H	NA
+p.Thr782Thr	synonymous	Likely benign	Thr	Thr	782	T	T
+p.Ala789Ala	synonymous	Likely benign	Ala	Ala	789	A	A
+p.Asn799Asn	synonymous	Likely benign	Asn	Asn	799	N	N
+p.Leu800Leu	synonymous	Likely benign	Leu	Leu	800	L	L
+p.Ala804Ala	synonymous	Likely benign	Ala	Ala	804	A	A
+p.Leu805Leu	synonymous	Likely benign	Leu	Leu	805	L	L
+p.Thr806Thr	synonymous	Likely benign	Thr	Thr	806	T	T
+p.Glu808Ter	stop	Pathogenic	Glu	Ter	808	E	*
+p.Thr812Thr	synonymous	Likely benign	Thr	Thr	812	T	T
+p.Lys818Lys	synonymous	Likely benign	Lys	Lys	818	K	K
+p.Cys822Ser	missense	Likely benign	Cys	Ser	822	C	S
+p.Gln824Gln	synonymous	Likely benign	Gln	Gln	824	Q	Q
+p.Gly827Gly	synonymous	Likely benign	Gly	Gly	827	G	G
+p.Ile828Ile	synonymous	Likely benign	Ile	Ile	828	I	I
+p.Asn835LeufsTer4	frameshift	Pathogenic	Asn	er4	8354	N	NA
+p.Ala834Thr	missense	Likely benign	Ala	Thr	834	A	T
+p.Phe836Phe	synonymous	Likely benign	Phe	Phe	836	F	F
+p.His839His	synonymous	Likely benign	His	His	839	H	H
+p.Val840Val	synonymous	Likely benign	Val	Val	840	V	V
+p.Glu842Glu	synonymous	Likely benign	Glu	Glu	842	E	E
+p.Ala848Ala	synonymous	Likely benign	Ala	Ala	848	A	A
+p.Leu849Leu	synonymous	Likely benign	Leu	Leu	849	L	L
+p.Glu852Glu	synonymous	Likely benign	Glu	Glu	852	E	E
+p.Gln855Gln	synonymous	Likely benign	Gln	Gln	855	Q	Q
+p.Tyr856Tyr	synonymous	Likely benign	Tyr	Tyr	856	Y	Y
+p.Gly858Gly	synonymous	Likely benign	Gly	Gly	858	G	G
+p.Ser860Leu	missense	Likely benign	Ser	Leu	860	S	L
+p.Ser860Ser	synonymous	Likely benign	Ser	Ser	860	S	S
+p.Gln861Leu	missense	Likely benign	Gln	Leu	861	Q	L
+p.Tyr863Tyr	synonymous	Likely benign	Tyr	Tyr	863	Y	Y
+p.Ile865Ile	synonymous	Likely benign	Ile	Ile	865	I	I
+p.Ile865Ile	synonymous	Likely benign	Ile	Ile	865	I	I
+p.Ala869Ala	synonymous	Likely benign	Ala	Ala	869	A	A
+p.Tyr874Ter	stop	Pathogenic	Tyr	Ter	874	Y	*
+p.Leu875Leu	synonymous	Likely benign	Leu	Leu	875	L	L
+p.Glu876Asp	missense	Likely benign	Glu	Asp	876	E	D
+p.Ile883AsnfsTer16	frameshift	Pathogenic	Ile	r16	88316	I	NA
+p.Gln885Gln	synonymous	Likely benign	Gln	Gln	885	Q	Q
+p.Phe887Phe	synonymous	Likely benign	Phe	Phe	887	F	F
+p.Ser889Ser	synonymous	Likely benign	Ser	Ser	889	S	S
+p.Pro895Pro	synonymous	Likely benign	Pro	Pro	895	P	P
+p.Pro895Pro	synonymous	Likely benign	Pro	Pro	895	P	P
+p.Phe896Phe	synonymous	Likely benign	Phe	Phe	896	F	F
+p.Ser900Ser	synonymous	Likely benign	Ser	Ser	900	S	S
+p.Asn903Ser	missense	Likely benign	Asn	Ser	903	N	S
+p.Thr905Arg	missense	Likely benign	Thr	Arg	905	T	R
+p.Lys907Lys	synonymous	Likely benign	Lys	Lys	907	K	K
+p.Lys912Lys	synonymous	Likely benign	Lys	Lys	912	K	K
+p.Ala913Ala	synonymous	Likely benign	Ala	Ala	913	A	A
+p.Val915Val	synonymous	Likely benign	Val	Val	915	V	V
+p.Phe922Phe	synonymous	Benign	Phe	Phe	922	F	F
+p.Val923Val	synonymous	Likely benign	Val	Val	923	V	V
+p.Ile926Ile	synonymous	Likely benign	Ile	Ile	926	I	I
+p.Val932Val	synonymous	Likely benign	Val	Val	932	V	V
+p.Thr934Ala	missense	Likely benign	Thr	Ala	934	T	A
+p.Ter935Ter	stop	Likely benign	Ter	Ter	935	*	*
+p.Arg900Leu	missense	Benign	Arg	Leu	900	R	L
+p.Gly901Gly	synonymous	Likely benign	Gly	Gly	901	G	G
+p.Gly902Ter	stop	Benign	Gly	Ter	902	G	*
+p.Ala906Val	missense	Likely benign	Ala	Val	906	A	V
+p.Arg909Trp	missense	Benign	Arg	Trp	909	R	W
+p.Gln915Arg	missense	Benign	Gln	Arg	915	Q	R
